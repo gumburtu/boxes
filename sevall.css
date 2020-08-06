@@ -1,0 +1,30 @@
+table {
+
+    height: 350px;
+    width: 500px;
+    text-align: center;
+    font-family: sans-serif;
+    border: 2px solid black;  
+    position: relative;
+    margin:auto;
+}
+
+th{
+    border: 2px solid black;
+    
+}
+
+td {
+    background-color: darkgreen;
+    border: 1px solid black;
+}
+
+th {
+    background-color: rgb(8, 88, 88);
+}
+
+div {
+    border: 3px solid steelblue;
+display: inline;
+}
+body{background-color: rgb(111, 46, 86);}
