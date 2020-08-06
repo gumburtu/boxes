@@ -1,0 +1,110 @@
+body {
+    background-color: hotpink;
+}
+
+.ana {
+    width: 80% auto;
+    height: auto;
+}
+
+
+.metin1 {
+    height: 150px auto;
+    width: 80%;
+    margin-bottom: 10px;
+    background-color: darkgrey;
+}
+
+.metin2 {
+    height: 150px auto;
+    width: 80%;
+    margin-bottom: 10px;
+    background-color: darkgrey;
+}
+
+.metin3 {
+    height: 150px auto;
+    width: 80%;
+    margin-bottom: 10px;
+    background-color: darkgrey;
+}
+
+.metin4 {
+    height: 150px auto;
+    width: 80%;
+    margin-bottom: 10px;
+    background-color: darkgrey;
+}
+
+.yazar {
+    display: inline-block;
+    float: left;
+    background-color: green;
+    padding: 20px;
+}
+
+img {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(92, 160, 205);
+    border-radius: 50%;
+    ;
+    border: 2px solid greenyellow;
+}
+
+.yazi {
+    float: right;
+    padding-left: 200px;
+    width: 450px;
+    margin-bottom: 20px;
+}
+
+.baslik {
+    background-color: indigo;
+    height: 50px;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+}
+
+li {
+    float: left;
+    width: 120px;
+}
+
+li a {
+    display: block;
+
+    padding: 22px 18px;
+
+    background-color: #27ae60;
+
+    color: white;
+
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #23834c;
+}
+
+.menu1 {
+    width: 200px;
+    float: right;
+    position: sticky;
+}
+
+.yukari {
+    height: 100px;
+    width: 75px;
+    background-color: rgb(0, 130, 124);
+    position: fixed;
+    
+}
